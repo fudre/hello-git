@@ -51056,25 +51056,7 @@ Asunto [
 		ultimoTramite=Presentada, 
 		tipo=PE, 
 
-				grupoUsuario=CCYL\GPSProcuradores]], ], 
-	tramite=
-	Tramite [], 
-	escrito=
-		Escrito [
-		nombre=RE_2025_002870_01.pdf, 
-		ruta=d:\data\download\RE_2025_002870_01_RE_2025_002870.pdf, 
-		nombreEscaneado=RE_2025_002870.pdf, 
-		titulo=RE_2025_002870_01, 
-		clasificacion=INI, 
-		documento=
-			Documento [
-				id=164414, 
-				codigo=NRE19E03PM, 
-				clasificacion=INI, 
-				fecha=2025-05-16, 
-				version=2.0, 
-				procesar=true], procesar=true]], RESULTADO: 1
-2025-06-05 18:15:36.921  INFO 3580 --- [ccylScheduler-2] es.ccyl.util.CCyLAudit                   : INT_REPO funcActualizarMesaGP: TIEMPO: 0, ASUNTO: 
+				grupoUsuario=CCYL\GPSProcuradores]], ],
 Asunto [
 	entrada=
 	Asiento [
