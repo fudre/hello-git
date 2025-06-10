@@ -1,4 +1,9 @@
 2025-06-05 09:08:49.269  INFO 3580 --- [Registro JMS OnMessage] es.ccyl.util.CCyLAudit                   : DISTR_SRVR procesa: TIEMPO: 5514, ASIENTO: 
+
+Este es otro cambio.
+
+
+
 	Asiento [
 		registroTipo=RE, 
 		id=242110, asf asf
