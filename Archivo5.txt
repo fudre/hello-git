@@ -1,3 +1,6 @@
+Nos vamos a cassa
+
+
 [33mcommit 9725e1a032f4276a4151314df695e928bb132774[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mramab[m[33m)[m
 Author: David Martinez <david.martinez@ccyl.es>
 Date:   Tue Jun 10 19:12:35 2025 +0200
