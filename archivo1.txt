@@ -1,9 +1,9 @@
-IENTO: 
+
 
 Este es otro cambio.
 
 
-
+Conflicto resuelto
 
 
 
@@ -14,95 +14,7 @@ Cambio en la rama b1.
 
 
 
-*
-*
-+
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-			
-				grupoCodigo=G11002, 
-				grupoUsuario=CCYL\GPSProcuradores]]], 
-	expediente=
-	Expediente [
-		id=EP_2025_003263, 
-		legislatura=Legislatura(numero=11), 
-		estado=Pendiente, 
-		ultimoTramite=Presentada, 
-		tipo=COM, ], 
-	tramite=
-	Tramite [], 
-	escrito=
-		Escrito [
-		nombre=RE_2025_003263_01.pdf, 
-		ruta=d:\data\download\RE_2025_003263_01_RE_2025_003263.pdf, 
-		nombreEscaneado=RE_2025_003263.pdf, 
-		titulo=RE_2025_003263_01, 
-		clasificacion=DPRC, 
-		documento=
-			Documento [
-				id=165122, 
-				codigo=NRE19E049A, 
-				clasificacion=DPRC, 
-				fecha=2025-06-05, 
-				version=2.0, 
-				procesar=true], procesar=true]], RESULTADO: 1
-2025-06-05 12:31:42.676  INFO 3580 --- [Registro JMS OnMessage] es.ccyl.util.CCyLAudit                   : DISTR_SRVR procesa: TIEMPO: 5318, ASIENTO: 
-	Asiento [
-		registroTipo=RE, 
-		id=242116, 
-		numero=3263, 
-		fecha=2025-06-05, 
-		anio=2025, 
-		estado=TRA, 
-		extracto=Comunicando las portavoces en distintas Comisiones Parlamentarias Permanentes y Diputación Permanente, 
-		destinatarios=Negociado de Gestión Parlamentaria, 
-		clasificacion=DPRC, 
-		procedimiento=COM, 
-		tipoExpediente=COM, 
-		documentos=[
-			Documento [
-				id=165122, 
-				codigo=NRE19E049A, 
-				clasificacion=DPRC, 
-				fecha=2025-06-05, 
-				version=2.0, 
-				procesar=true]], 
-		interesados=[
-			Presentador [
-				codigo=G11002, 
-				tratamiento=Grupo Parlamentario, 
-				nombre=SOCIALISTA, 
-				nombreCompleto=Grupo Parlamentario Socialista, 
-				genero=G, 
-				provincia=CyL, 
-				usuario=CCYL\GPSProcuradores, 
-				grupoCorto=SOCIALISTA, 
-				grupoCodigo=G11002, 
-				grupoUsuario=CCYL\GPSProcuradores]]], OPERACIONES ESPERADAS: [
-	Operacion [distribuidor=RepositorioEnvio [server=SPS_2010_REP]], 
-	Operacion [distribuidor=DiscoEnvio [server=DISK_PUB_DPT]]], OPERACIONES EJECUTADAS: 2, RESULTADO: 1
-2025-06-05 12:31:42.676  INFO 3580 --- [Registro JMS OnMessage] es.ccyl.util.CCyLAudit                   : JMS_LSNR enviar: TIEMPO: 5318, MENSAJE:ActiveMQTextMessage {commandId = -1, responseRequired = false, messageId = ID:opencertiac_client:-1:-1:-1:6444432543, originalDestination = null, originalTransactionId = null, producerId = null, destination = topic://registro.asiento.entrada, transactionId = null, deliveryTime = 0, expiration = 0, timestamp = 1749119497348, arrival = 0, brokerInTime = 0, brokerOutTime = 1749119497357, correlationId = null, replyTo = null, persistent = true, type = null, priority = 4, groupID = null, groupSequence = 0, targetConsumerId = null, compressed = false, userID = null, content = null, marshalledProperties = org.apache.activemq.util.ByteSequence@4f502005, dataStructure = null, redeliveryCounter = 0, size = 0, properties = {__AMQ_CID=opencertiac_client, OPERACION=1}, readOnlyProperties = true, readOnlyBody = true, droppable = false, jmsXGroupFirstForConsumer = false, text = <?xml version="1.0" encoding="ISO-8859-1"?><L...Logregistro>}, RESULTADO: [JMS_LSNR  OK: 1]
-2025-06-05 12:44:04.773  INFO 3580 --- [Registro JMS OnMessage] es.ccyl.util.CCyLAudit                   : DISTR_SRVR procesa: TIEMPO: 1654, ASIENTO: null, OPERACIONES ESPERADAS: null, OPERACIONES EJECUTADAS: 0, RESULTADO: 0
-2025-06-05 12:44:04.773  INFO 3580 --- [Registro JMS OnMessage] es.ccyl.util.CCyLAudit                   : JMS_LSNR enviar: TIEMPO: 1654, MENSAJE:ActiveMQTextMessage {commandId = -1, responseRequired = false, messageId = ID:opencertiac_client:-1:-1:-1:6444432553, originalDestination = null, originalTransactionId = null, producerId = null, destination = topic://registro.asiento.entrada, transactionId = null, deliveryTime = 0, expiration = 0, timestamp = 1749120243107, arrival = 0, brokerInTime = 0, brokerOutTime = 1749120243118, correlationId = null, replyTo = null, persistent = true, type = null, priority = 4, groupID = null, groupSequence = 0, targetConsumerId = null, compressed = false, userID = null, content = null, marshalledProperties = org.apache.activemq.util.ByteSequence@418c4597, dataStructure = null, redeliveryCounter = 0, size = 0, properties = {__AMQ_CID=opencertiac_client, OPERACION=0}, readOnlyProperties = true, readOnlyBody = true, droppable = false, jmsXGroupFirstForConsumer = false, text = <?xml version="1.0" encoding="ISO-8859-1"?><L...Logregistro>}, RESULTADO: [JMS_LSNR  OK: 1]
-2025-06-05 12:45:03.375  INFO 3580 --- [Registro JMS OnMessage] es.ccyl.util.CCyLAudit                   : DISTR_SRVR procesa: TIEMPO: 1726, ASIENTO: null, OPERACIONES ESPERADAS: null, OPERACIONES EJECUTADAS: 0, RESULTADO: 0
-2025-06-05 12:45:03.375  INFO 3580 --- [Registro JMS OnMessage] es.ccyl.util.CCyLAudit                   : JMS_LSNR enviar: TIEMPO: 1726, MENSAJE:ActiveMQTextMessage {commandId = -1, responseRequired = false, messageId = ID:opencertiac_client:-1:-1:-1:6444432563, originalDestination = null, originalTransactionId = null, producerId = null, destination = topic://registro.asiento.entrada, transactionId = null, deliveryTime = 0, expiration = 0, timestamp = 1749120301634, arrival = 0, brokerInTime = 0, brokerOutTime = 1749120301648, correlationId = null, replyTo = null, persistent = true, type = null, priority = 4, groupID = null, groupSequence = 0, targetConsumerId = null, compressed = false, userID = null, content = null, marshalledProperties = org.apache.activemq.util.ByteSequence@6fcd72b5, dataStructure = null, redeliveryCounter = 0, size = 0, properties = {__AMQ_CID=opencertiac_client, OPERACION=0}, readOnlyProperties = true, readOnlyBody = true, droppable = false, jmsXGroupFirstForConsumer = false, text = <?xml version="1.0" encoding="ISO-8859-1"?><L...Logregistro>}, RESULTADO: [JMS_LSNR  OK: 1]
-2025-06-05 12:45:15.863  INFO 3580 --- [Registro JMS OnMessage] es.ccyl.util.CCyLAudit                   : DISTR_SRVR procesa: TIEMPO: 1650, ASIENTO: null, OPERACIONES ESPERADAS: null, OPERACIONES EJECUTADAS: 0, RESULTADO: 0
-2025-06-05 12:45:15.863  INFO 3580 --- [Registro JMS OnMessage] es.ccyl.util.CCyLAudit                   : JMS_LSNR enviar: TIEMPO: 1650, MENSAJE:ActiveMQTextMessage {commandId = -1, responseRequired = false, messageId = ID:opencertiac_client:-1:-1:-1:6444432573, originalDestination = null, originalTransactionId = null, producerId = null, destination = topic://registro.asiento.entrada, transactionId = null, deliveryTime = 0, expiration = 0, timestamp = 1749120314214, arrival = 0, brokerInTime = 0, brokerOutTime = 1749120314223, correlationId = null, replyTo = null, persistent = true, type = null, priority = 4, groupID = null, groupSequence = 0, targetConsumerId = null, compressed = false, userID = null, content = null, marshalledProperties = org.apache.activemq.util.ByteSequence@1ef4ba88, dataStructure = null, redeliveryCounter = 0, size = 0, properties = {__AMQ_CID=opencertiac_client, OPERACION=0}, readOnlyProperties = true, readOnlyBody = true, droppable = false, jmsXGroupFirstForConsumer = false, text = <?xml version="1.0" encoding="ISO-8859-1"?><L...Logregistro>}, RESULTADO: [JMS_LSNR  OK: 1]
-2025-06-05 12:45:44.333  INFO 3580 --- [Registro JMS OnMessage] es.ccyl.util.CCyLAudit                   : DISTR_SRVR procesa: TIEMPO: 1735, ASIENTO: null, OPERACIONES ESPERADAS: null, OPERACIONES EJECUTADAS: 0, RESULTADO: 0
+o JMS OnMessage] es.ccyl.util.CCyLAudit                   : DISTR_SRVR procesa: TIEMPO: 1735, ASIENTO: null, OPERACIONES ESPERADAS: null, OPERACIONES EJECUTADAS: 0, RESULTADO: 0
 2025-06-05 12:45:44.333  INFO 3580 --- [Registro JMS OnMessage] es.ccyl.util.CCyLAudit                   : JMS_LSNR enviar: TIEMPO: 1735, MENSAJE:ActiveMQTextMessage {commandId = -1, responseRequired = false, messageId = ID:opencertiac_client:-1:-1:-1:6444432583, originalDestination = null, originalTransactionId = null, producerId = null, destination = topic://registro.asiento.entrada, transactionId = null, deliveryTime = 0, expiration = 0, timestamp = 1749120342594, arrival = 0, brokerInTime = 0, brokerOutTime = 1749120342604, correlationId = null, replyTo = null, persistent = true, type = null, priority = 4, groupID = null, groupSequence = 0, targetConsumerId = null, compressed = false, userID = null, content = null, marshalledProperties = org.apache.activemq.util.ByteSequence@192c8776, dataStructure = null, redeliveryCounter = 0, size = 0, properties = {__AMQ_CID=opencertiac_client, OPERACION=0}, readOnlyProperties = true, readOnlyBody = true, droppable = false, jmsXGroupFirstForConsumer = false, text = <?xml version="1.0" encoding="ISO-8859-1"?><L...Logregistro>}, RESULTADO: [JMS_LSNR  OK: 1]
 2025-06-05 12:46:00.009  INFO 3580 --- [Registro JMS OnMessage] es.ccyl.util.CCyLAudit                   : DISTR_SRVR procesa: TIEMPO: 1745, ASIENTO: null, OPERACIONES ESPERADAS: null, OPERACIONES EJECUTADAS: 0, RESULTADO: 0
 2025-06-05 12:46:00.009  INFO 3580 --- [Registro JMS OnMessage] es.ccyl.util.CCyLAudit                   : JMS_LSNR enviar: TIEMPO: 1745, MENSAJE:ActiveMQTextMessage {commandId = -1, responseRequired = false, messageId = ID:opencertiac_client:-1:-1:-1:6444432593, originalDestination = null, originalTransactionId = null, producerId = null, destination = topic://registro.asiento.entrada, transactionId = null, deliveryTime = 0, expiration = 0, timestamp = 1749120358260, arrival = 0, brokerInTime = 0, brokerOutTime = 1749120358269, correlationId = null, replyTo = null, persistent = true, type = null, priority = 4, groupID = null, groupSequence = 0, targetConsumerId = null, compressed = false, userID = null, content = null, marshalledProperties = org.apache.activemq.util.ByteSequence@62497675, dataStructure = null, redeliveryCounter = 0, size = 0, properties = {__AMQ_CID=opencertiac_client, OPERACION=0}, readOnlyProperties = true, readOnlyBody = true, droppable = false, jmsXGroupFirstForConsumer = false, text = <?xml version="1.0" encoding="ISO-8859-1"?><L...Logregistro>}, RESULTADO: [JMS_LSNR  OK: 1]
@@ -73898,3 +73810,8 @@ Asunto [
 }
 2025-06-05 18:17:37.932  INFO 3580 --- [ccylScheduler-2] es.ccyl.util.CCyLAudit                   : MESA_SCHED agreement: TIEMPO: 397925, RESULTADO: [MESA_SCHED  OK: 1]
 2025-06-05 23:55:01.231  INFO 3580 --- [ccylScheduler-9] es.ccyl.util.CCyLAudit                   : GP_SCHED updateLegislaturaIncremental: TIEMPO: 93, RESULTADO: [INT_REPO  0 operaciones]
+=======
+
+
+Cambio en archivo 1 Rama b
+>>>>>>> ramab
