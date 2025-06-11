@@ -1,0 +1,8 @@
+Cambios en el fichero rama b desde la rama b1
+
+
+
+
+
+
+Este es un cambio en el fichero en la rama b1.
