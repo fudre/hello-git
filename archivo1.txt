@@ -1,3 +1,12 @@
+Cambio en Archivo1 despues del merge en main
+
+
+
+
+
+
+
+
 2025-06-05 09:08:49.269  INFO 3580 --- [Registro JMS OnMessage] es.ccyl.util.CCyLAudit                   : DISTR_SRVR procesa: TIEMPO: 5514, ASIENTO: 
 	Asiento [
 		registroTipo=RE, 
