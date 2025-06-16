@@ -1,4 +1,8 @@
+
+
+Y otro cambio posterior en la rama b1
+
 Cambio en el fichero Rama B.
 
+Conflicto resuelto
 
-para liar todo un poco mas. Esto es en la rama b.

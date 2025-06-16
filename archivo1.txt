@@ -1,3 +1,16 @@
-
-
 Cambio en archivo 1 Rama b y un añadido mas
+
+Este es otro cambio.
+
+
+Conflicto resuelto
+
+
+
+
+
+
+Cambio en la rama b1.
+
+
+Este es archivo B1 mergeado total
