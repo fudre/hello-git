@@ -1,3 +1,4 @@
+
 Cambio en archivo 1 Rama b y un añadido mas
 
 Este es otro cambio.
@@ -14,3 +15,8 @@ Cambio en la rama b1.
 
 
 Este es archivo B1 mergeado total
+
+
+Cambio en la rama con cambios en stastc 
+
+Mergeo total de la ramac en ramab 250717
